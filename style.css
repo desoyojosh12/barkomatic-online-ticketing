@@ -2898,7 +2898,7 @@ html .ui-button.ui-state-disabled:active {
 
 .popular-tags li {
     display: inline-block;
-    float: left;
+    /* float: left; */
     margin: 3px;
 }
 
